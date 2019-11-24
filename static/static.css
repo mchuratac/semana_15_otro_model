@@ -1,0 +1,23 @@
+body {
+  background: url('https://previews.123rf.com/images/naum100/naum1001509/naum100150900122/45651834-etiqueta-logotipo-o-icono-de-servicio-de-taxi-ilustraci%C3%B3n-vectorial.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.card-center {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+
+.card-center > img {
+  width: 150px;
+  height: 130px;
+}
+
+.avatar {
+  width: 232px;
+  height: 250px;
+}
